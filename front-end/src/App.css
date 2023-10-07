@@ -1,0 +1,22 @@
+.App{
+    margin: 15px;
+    background-color: #f1f1f1;
+    padding:15px;
+}
+@media screen and (max-width:600px) {
+    .App{
+        margin: 0px;
+        padding:15px;
+    }
+}
+#print{
+    width: 50%;
+    height: 30%;
+    background: #f1f1f1;
+}
+.Bg{
+    background-color: #555;
+    padding:10px 0px;
+}
+
+
